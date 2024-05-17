@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Brunda Patil 👋</h1>
-<h3 align = "center">WEB DEVELOPER INTER INFOSYS</h3>
+<h3 align = "center"></h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/brundapatil-a06934212/)">
   <img align="left" alt="Brunda Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
